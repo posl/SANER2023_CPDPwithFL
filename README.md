@@ -1,7 +1,13 @@
-# Towards Privacy Preserving Cross Project Defect Prediction with Federated Learning
+# Towards Privacy Preserving Cross Project Defect Prediction with Federated Learning - SANER2023
+
+Hiroki Yamamoto, Dong Wang, Gopi Krishnan Rajbahadur, Masanari Kondo, Yasutaka Kamei and Naoyasu Ubayashi
+
+Kyushu University, Fukuoka, Japan
+
+Huawei Technologies Canada Co., Ltd., Canada
 
 ## Abstract
-This replication package includes the dataset and additional_results.
+Defect prediction models can predict defects in software projects, and many researchers study defect prediction models to assist debugging efforts in software development. In recent years, there has been growing interest in Cross Project Defect Prediction (CPDP), which predicts defects in a project using a defect prediction model learned from other projects’ data when there is insufficient data to construct a defect prediction model. Since CPDP uses other projects’ data, data privacy preservation is one of the most significant issues. However, prior CPDP studies still require data sharing among projects to train models, and do not fully consider protecting project confidentiality. To address this, we propose a CPDP model FLR employing federated learning, a distributed machine learning approach that does not require data sharing. We evaluate FLR, using 25 projects, to investigate its effectiveness and feature interpretation. Our key results show that first, FLR outperforms the existing privacy-preserving methods (i.e., LACE2). Meanwhile, the performance is relatively comparable to the conventional methods (e.g., supervised and unsupervised learning). Second, the results of the interpretation analysis show that scale-related features have a common effect on the prediction performance of the FLR. In addition, further insights demonstrate that parameters of federated learning (e.g., learning rates and the number of clients) also play a role in the performance. This study is served as a first step to confirm the feasibility of the employment of federated learning in CPDP to ensure privacy preservation and lays the groundwork for future research on applying other machine learning models to federated learning.
 
 ## Dataset
 
