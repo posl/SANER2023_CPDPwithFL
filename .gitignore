@@ -127,16 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-.history/README_20230111104717.md
-.history/README_20230112232615.md
-.history/README_20230112234905.md
-.history/README_20230112235047.md
-.history/README_20230112235338.md
-.history/README_20230113000118.md
-.history/README_20230113000308.md
-.history/README_20230113000317.md
-.history/README_20230113000551.md
-.history/datasets/datasets_describe_20230113000200.json
-.history/datasets/datasets_describe_20230113000242.json
-.history/scripts/config_20230112233516.py
-.history/scripts/config_20230112235037.py
+.history*
