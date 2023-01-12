@@ -1,4 +1,4 @@
-# SANER2023_CPDPwithFL
+# Towards Privacy Preserving Cross Project Defect Prediction with Federated Learning
 
 ## Abstract
 This replication package includes the dataset and additional_results.
