@@ -50,8 +50,7 @@ python cpdp_UL.py
 ## Citing the Work
 ```bibtex
 @inproceedings{Yamamoto2023saner,
-  author = {Hiroki Yamamoto, Dong Wang, Gopi Krishnan Rajbahadur, Masanari Kondo,
-Yasutaka Kamei, Naoyasu Ubayashi},
+  author = {Hiroki Yamamoto, Dong Wang, Gopi Krishnan Rajbahadur, Masanari Kondo, Yasutaka Kamei, Naoyasu Ubayashi},
   title = {Towards Privacy Preserving Cross Project Defect Prediction with Federated Learning},
   booktitle = {2023 IEEE International Conference on Software Analysis, Evolution and Reengineering},
   year = {2023},
